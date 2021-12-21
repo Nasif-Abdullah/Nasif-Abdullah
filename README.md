@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nasif-Abdullah
-- 👀 I’m interested in programming!
+- 👀 I’m interested in programming and woman!
 - 🌱 I’m currently learning HTML and PHP!
 - 💞️ I’m looking to collaborate on google!
 - 📫 How to reach me on fiverr.
